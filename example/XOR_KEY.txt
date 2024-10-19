@@ -1,0 +1,2 @@
+key used: sigma
+^ if you want to try encoding, decoding this yourself
